@@ -1,5 +1,5 @@
 """
-ise_get-all-endpoints.py: Export desired endpoints from Cisco ISE Server to a ready to import csv
+ise_get-endpoints-info.py: Export desired endpoints from Cisco ISE Server to a ready to import csv
 Author: Nicolas Poirier - @NicolasPoirie19
 GitHub: https://github.com/nicolas-poirier
 License: GNU GENERAL PUBLIC LICENSE Version 3
