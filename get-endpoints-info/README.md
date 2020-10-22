@@ -4,7 +4,7 @@ Export desired endpoints from Cisco ISE Server to a ready to import csv
 
 #### Prerequisites
 * Cisco ISE Server
-  * Release: 1.2.x
+  * Release: 2.x
 * Python
   * Version 3.x
   
