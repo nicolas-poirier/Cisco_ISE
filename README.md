@@ -4,7 +4,7 @@ You can follow the repository as new scripts will be added over time.
 
 ## List of scripts
 
-* [ise_get-endpoints-info.py](https://github.com/nicolas-poirier/Cisco_ISE/blob/main/get-endpoints-info/ise_get-endpoints-info.py)
+* [ise_get-endpoints-info.py](https://github.com/nicolas-poirier/Cisco_ISE/tree/main/get-endpoints-info)
   * Export desired endpoints from Cisco ISE Server to a ready to import csv
 
 ## Authors & Maintainers
