@@ -1,6 +1,6 @@
 # ise_get-endpoints-info.py
 
-Export desired endpoints from Cisco ISE Server to a ready to import csv
+Export desired endpoints from Cisco ISE Server to a csv file that can be imported on another ISE Server
 
 #### Prerequisites
 * Cisco ISE Server
